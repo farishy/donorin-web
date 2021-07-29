@@ -28,4 +28,4 @@ Demo Apps [link](https://www.youtube.com/watch?v=qF4w7pCKABk&ab_channel=JTIKPNJ)
 
 ### [Screenshoot Dashboard Admin]
 
-<img src="/screenshot/dashboard.jpg" width="960" height="540"> <img src="/screenshot/dashboard2.jpg" width="960" height="540">
+<img src="/screenshot/dashboard.png" width="960" height="540"> <img src="/screenshot/dashboard2.png" width="960" height="540">
